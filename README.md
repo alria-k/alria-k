@@ -3,7 +3,7 @@
 </div>  
   
 
-### **<ins><div align="center">Hi! My name is Arthur, glad to see you in my profile! I am Frontend Developer from Kazakhstan with more than 2 years of development. I study new, most relevant technologies and love to solve various difficulties and challenges</div></ins>**  
+### **<ins><div align="center">Hi! My name is Arthur, glad to see you in my profile! I am Frontend Developer</div></ins>**  
   
 
 <br/>  
